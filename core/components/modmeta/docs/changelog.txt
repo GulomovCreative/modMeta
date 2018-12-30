@@ -1,0 +1,5 @@
+Changelog for modMeta.
+
+1.0.0-beta
+==============
+- Init

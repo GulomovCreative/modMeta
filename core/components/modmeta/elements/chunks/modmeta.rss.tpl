@@ -1,0 +1,1 @@
+<link href="[[+link]]" rel="alternate" type="application/rss+xml" title="[[+title]]" />
